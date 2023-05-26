@@ -1,0 +1,15 @@
+.about-bg{
+    background-color: black;
+    
+    
+    
+    
+}
+.about-p{
+    /* margin: rem; */
+    width: 85%;
+    margin: auto;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 25%;
+}

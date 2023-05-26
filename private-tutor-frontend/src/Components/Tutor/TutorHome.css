@@ -1,0 +1,36 @@
+.back{
+  /* height:unset; */
+  background-image: url("./../images/tutor-home-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  /* background: #3e413e; */
+  padding-top: 2% ;
+  padding-bottom: 10%;
+}
+
+.sp{
+  margin-top: 2rem;
+}
+.bd{
+  margin: 0 auto 1rem auto;
+  width: 50%;
+  padding-top:2%;
+  background-color: rgba(0,0,0, 0.5);
+  color: white;
+}
+
+
+.cl-test{
+  background-color: rgba(0,0,0, 0.5);
+}
+
+
+.all-sec{
+  text-align: center;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding: 3%;
+  border: 1px solid black;
+  color: white;
+}

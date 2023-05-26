@@ -1,0 +1,30 @@
+.card {
+    border-radius: 10px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+  }
+  
+  .card:hover {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 12px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .card-text {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  .card-footer {
+    padding: 10px 12px;
+    background-color: #f9f9f9;
+  }
+  
+ 
